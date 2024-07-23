@@ -1,0 +1,30 @@
+.nav{
+  color: rgb(231, 11, 11) !important;
+  font-weight: bolder;
+  
+}
+
+.d1{
+  font-weight: bolder;
+  font-size: x-large;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.d2{
+  background-color: rgb(170, 35, 35);
+  color: white;
+  border: 1px solid red;
+  border-radius: 5px;
+  font-size: medium;
+  padding: 5px;
+}
+
+.d3{
+  display: flex ;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid black;
+  flex-wrap: wrap;
+
+}
